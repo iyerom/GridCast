@@ -1,8 +1,8 @@
 # PixelPost
 
-A 16x8 LED pixel canvas that syncs live with a drawable web page — draw on the site, and the physical grid updates in real time over WiFi. Built as a small, personal gift.
+A 16x8 LED pixel canvas that syncs live with a drawable web page. Draw on the site, and the physical grid updates in real time over WiFi. Built as a small, personal gift.
 
-![PixelPost device](<img width="1600" height="1200" alt="WhatsApp Image 2026-09-17 at 2 18 32 AM" src="https://github.com/user-attachments/assets/281e948a-64fa-48bd-86b0-7f6505216370" />)
+<img width="1600" height="1200" alt="WhatsApp Image 2026-09-17 at 2 18 32 AM" src="https://github.com/user-attachments/assets/281e948a-64fa-48bd-86b0-7f6505216370" />
 *The physical 16x8 grid*
 
 ## Demo
