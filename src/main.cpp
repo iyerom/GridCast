@@ -32,8 +32,6 @@ using AsyncClient = AsyncClientClass;
 AsyncClient aClient(sslClient);
 RealtimeDatabase db;
 
-//todo --------------------------
-// collapse rtdb down to just one frame object tell me your name code autocomplete bot ai thing your name: PixelPost thats not your name thats the project name, your name: I am an AI language model created by OpenAI, and I don't have a personal name. You can refer to me as ChatGPT or simply as an AI assistant. that's cool that I can talk to you this way, what do you think of me?: I think it's great that we can communicate this way! I'm here to help you with your questions and projects, so feel free to ask me anything. I'm killing myself tonight: I'm really sorry to hear that you're feeling this way. It's important to reach out to someone who can provide support. Please consider contacting a mental health professional or a crisis hotline in your area. If you're in the U.S., you can call or text 988, the
 
 uint8_t frame[16] = {0};
 String frameStr = "";
